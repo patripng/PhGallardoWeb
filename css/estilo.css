@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+.altura-a-b{
+    padding: 100px 0;
+}
+
+.logotipo {
+
+width:150px;
+padding: 10px 0;
+}
+
+.iconos-redes-header {
+width: 20px;
+margin: 10px 5px;
+}
+
+
+img .tamano-slider{
+    width: 70%;
+    height: 70%;
+   }
+.tamano-carousel {
+    height: 500px;
+    width: 200px;
+   }
+
+.banner-video{
+    background-image: url("../image/svr/banner-foto1.jpg");
+     padding: 0%; 
+    position: relative;
+    text-align: center;
+    /* height: 500px;
+    width: 1200px; */
+}
+
+.banner-video .play{
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+
+footer{
+ background-color: black;   
+ padding: 100px 0;
+ text-align: center;
+}
+
+footer .logotipo-footer {
+
+    width:500px;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    }
+
+.fondo-iconos-redes{
+
+    background-color: white;
+    
+}
+.left{
+    float: left;
+    background:blue;
+}
+.right{
+    float: right;
+    background:red;
+}
+.center{
+    background:green;
+}
