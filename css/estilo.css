@@ -9,7 +9,17 @@
 width:150px;
 padding: 10px 0;
 }
+.logotipo-nav {
 
+    width:500px;
+    padding: 10px 0;
+    }
+.nav-ancho {
+    max-width: inherit;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: auto;
+}
 .iconos-redes-header {
 width: 20px;
 margin: 10px 5px;
